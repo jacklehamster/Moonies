@@ -46,7 +46,7 @@
 		}
 		
 		private function processOrders():void {
-			if(Creature.creatures.length > 2) {
+			if(Creature.creatures.length > 2 && order) {
 				var orderAgo:int = getTimer() - lastOrder;
 				if(orderAgo > this.orderCount * 10000) {
 					if (order.currentLabel==='NOORDER') {
@@ -152,6 +152,8 @@
 								
 			}
 			if(money < -100) {
+				gameScene.visible = false;
+				dungArea.visible = false;
 				gotoAndPlay("GAMEOVER", 'GAMEOVER');
 			}
 		}

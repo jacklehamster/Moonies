@@ -107,13 +107,13 @@
 	<key>CFBundleGetInfoString</key>
 	<string>Moonies   1.0 Copyright 2017 Dobuki Studio.</string>
 	<key>CFBundleIconFile</key>
-	<string>Moonies.icns</string>
+	<string>moonies.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.macromedia.Flash Player.app</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleLongVersionString</key>
-	<string>Moonies   1.0</string>
+	<string>Moonies 1.0</string>
 	<key>CFBundleName</key>
 	<string>Moonies</string>
 	<key>CFBundlePackageType</key>

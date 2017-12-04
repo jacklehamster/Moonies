@@ -8,10 +8,6 @@
 		<data>
 		pvaoxAmCeX2xYmqprk5Wp0Izs2A=
 		</data>
-		<key>Resources/Moonies.icns</key>
-		<data>
-		Nh0sl6qpGKbULBLFOfPc3qs1etU=
-		</data>
 		<key>Resources/cs.lproj/InfoPlist.strings</key>
 		<dict>
 			<key>hash</key>
@@ -320,9 +316,13 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/moonies.icns</key>
+		<data>
+		Nh0sl6qpGKbULBLFOfPc3qs1etU=
+		</data>
 		<key>Resources/movie.swf</key>
 		<data>
-		yDcfWK0vrzgzZtlnA7QjcU5aq/g=
+		7u5aIVGaWRtedgkl4+e1MC24LHc=
 		</data>
 		<key>Resources/nl.lproj/InfoPlist.strings</key>
 		<dict>
@@ -624,17 +624,6 @@
 			<key>hash2</key>
 			<data>
 			SYd91ZoMWBb7rqxG1gv20wFeOO0c2C8AvrCsnZp03/w=
-			</data>
-		</dict>
-		<key>Resources/Moonies.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Nh0sl6qpGKbULBLFOfPc3qs1etU=
-			</data>
-			<key>hash2</key>
-			<data>
-			IPfpb75c/yzXJs1NBRdaQvw1f3qK+0toFoWPXlmhIuw=
 			</data>
 		</dict>
 		<key>Resources/cs.lproj/InfoPlist.strings</key>
@@ -1108,15 +1097,26 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/moonies.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nh0sl6qpGKbULBLFOfPc3qs1etU=
+			</data>
+			<key>hash2</key>
+			<data>
+			IPfpb75c/yzXJs1NBRdaQvw1f3qK+0toFoWPXlmhIuw=
+			</data>
+		</dict>
 		<key>Resources/movie.swf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yDcfWK0vrzgzZtlnA7QjcU5aq/g=
+			7u5aIVGaWRtedgkl4+e1MC24LHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OIi3gGi7qL/lr3w1HgQlWUcvQ+1UpijNFUNCc5IMbmk=
+			bEmFxMcBrDV+JE9m++ZcXdOqUv0pXsqcXSfS3R8uGPY=
 			</data>
 		</dict>
 		<key>Resources/nl.lproj/InfoPlist.strings</key>
