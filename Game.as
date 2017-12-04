@@ -19,6 +19,7 @@
 	
 	public class Game extends MovieClip {
 	
+		public var inited:Boolean = false;
 		public static const HEIGHT:int = 600;
 		public static const WIDTH:int = 800;
 		private var walls:Array = [];
